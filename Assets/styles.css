@@ -57,3 +57,21 @@ header {
     font-size: 4vmin;
     padding-top: 15px;
 }
+
+/* About Me Section */
+section {
+    width: 80%;
+    margin: 80px auto;
+}
+
+#about{
+    padding-top: 50px;
+    margin-top: 10px;
+}
+.about-title {
+    text-align: center;
+    font-size: 4vmin;
+}
+.about-title p {
+    font-size: 2vmin;
+}
