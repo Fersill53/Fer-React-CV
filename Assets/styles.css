@@ -75,3 +75,9 @@ section {
 .about-title p {
     font-size: 2vmin;
 }
+
+/* Projects Section */
+.proj-title {
+    text-align: center;
+    font-size: 4vmin;
+}
