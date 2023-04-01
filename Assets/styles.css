@@ -81,3 +81,10 @@ section {
     text-align: center;
     font-size: 4vmin;
 }
+.row {
+    display: flex;
+    align-items: center;
+}
+.row .col {
+    width: 80%;
+}
