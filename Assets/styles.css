@@ -8,6 +8,9 @@ a {
     text-decoration: none;
     color: greenyellow;
 }
+a:hover {
+    color: blueviolet;
+}
 
 ul {
     list-style: none;
@@ -36,6 +39,9 @@ body {
 }
 .nav-links li {
     margin: 0 30px;
+}
+.nav-links:hover {
+    color: greenyellow;
 }
 
 /*Header section*/
@@ -110,6 +116,10 @@ section {
     width: 70%;
 }
 
+/* Resume Section */
+.res-title {
+    color: greenyellow;
+}
 
 /* Media */
 
