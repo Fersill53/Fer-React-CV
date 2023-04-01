@@ -44,3 +44,16 @@ header {
     align-items: flex-end;
     justify-content: center;
 }
+.header-cont {
+    margin-bottom: 150px;
+    color: greenyellow;
+}
+.header-cont h1 {
+    font-size: 7vmin;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.header-cont h3 {
+    font-size: 4vmin;
+    padding-top: 15px;
+}
