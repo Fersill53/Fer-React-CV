@@ -98,7 +98,8 @@ section {
 .proj-title {
     text-align: center;
     font-size: 4vmin;
-    padding-bottom: 45px;
+    padding-bottom: 55px;
+    margin-bottom: 20px;
     color: greenyellow;
 }
 .row {
@@ -115,10 +116,21 @@ section {
 .row .col img {
     width: 70%;
 }
+.horiseon:hover {
+    border: 5px solid greenyellow;
+}
+.google:hover {
+    border: 5px solid greenyellow;
+}
+
 
 /* Resume Section */
 .res-title {
     color: greenyellow;
+    text-align: center;
+    font-size: 4vmin;
+    padding-top: 60px;
+    margin-top: 20px;
 }
 
 /* Media */
