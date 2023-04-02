@@ -129,9 +129,25 @@ section {
     color: greenyellow;
     text-align: center;
     font-size: 4vmin;
-    padding-top: 60px;
+    padding-top: 200px;
     margin-top: 20px;
+    padding-bottom: 300px;
+
 }
+
+/* contact bar */
+.contactbar {
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+    color: greenyellow;
+    align-items: center;
+}
+
+
 
 /* Media */
 
